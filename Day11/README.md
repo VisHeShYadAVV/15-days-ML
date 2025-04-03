@@ -16,7 +16,7 @@ Multi-Format Resume Support: Accepts PDF, DOCX, and TXT file uploads.
 
 Interactive UI: Deploys a user-friendly interface with Streamlit.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python (Pandas, NumPy, Scikit-Learn)
 
